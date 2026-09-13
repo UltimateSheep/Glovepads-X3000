@@ -1,5 +1,5 @@
 # ESP32-C3 Super Mini -- BLE Gamepad
--# Disclaimer: This README file has been AI-generated.
+###### Disclaimer: This README file has been AI-generated.
 
 A modular PlatformIO firmware that turns an ESP32-C3 Super Mini into a
 Bluetooth LE HID gamepad: 5 buttons + 1 analog stick, plus battery-level
